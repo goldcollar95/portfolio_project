@@ -1,0 +1,240 @@
+title: 
+name: 김상문
+email: yjs7298@naver.com
+description: 
+  Backend Dev & Data engineer
+
+
+baseurl: ""
+url: "https://vividmy.github.io"
+
+
+# profile 이미지
+profile_image: images/6123.jpg
+
+
+# SNS 아이디
+facebook_id: #
+instagram_id: muns1_k
+
+
+# Youtube vid
+youtube_vid: #
+
+
+# Custom Color
+primary: b72cf0 #2c98f0 
+primary_hover: 44A4F2 #9a2dc7
+color_1: 2c98f0 #b72cf0
+color_2: ec5453
+color_3: f9bf3f
+color_4: a84cb8
+color_5: 2fa499
+color_6: 4054b2
+
+
+# slider type 0  (텍스트가 우측 정렬된 슬라이더)
+slider_0: # 형식에 맞추어 항목 추가
+- background_url: images/11.jpg
+  title: My<br>
+   portfolio</br> 
+  position: absolute
+  transform: translate( -50%, -50%)
+  left: 200px
+  bottom: 80px
+
+
+# slider type 1  (텍스트가 좌측 정렬된 슬라이더)
+slider_1: # 형식에 맞추어 항목 추가
+- background_url: images/12.jpg
+  title: 성장하는<br> 
+   개발자를</br> 
+   꿈꾸고있습니다</br>
+  subtitle: >- 
+    조금은 늦었지만<br>
+    아무것도 몰랐지만<br>
+    무작정 따라하며 성장해온<br>
+    초보 개발자 sangmun입니다.
+  position: absolute
+  transform: translate( -50%, -50%)
+  left: 200px
+  bottom: 80px
+
+
+# About
+about_meta: About Me
+about_header: >- 
+  "더 나은 개발을 위한"
+about_introduce: >-
+  "안녕하세요. 백엔드를 꿈꾸는  개발자, 김상문입니다."
+about_content: >- 
+   "학창시절부터 나만의 사업모델을 만드는 것을 목표삼아왔습니다. 나만의 것을 만들고 다른사람과 협업하는것을 좋아했습니다<br>
+   하지만 그때 당시만해도 컴퓨터공학과에 진학하지 않았을뿐더러,</br> 오히려 다른 부분에 관심이 많았었습니다.
+   군대를 졸업하고 과연 내가 사업모델을 만들며, 큰 발전을 이루는 것이 무엇이있을까? 자신에게 끊임없이 질문해왔습니다<br>
+   컴퓨터공학과로 전과 후 1학년과정부터 차근차근배우면서 개발자의 길을 걷는것이 나의 발전에 있어 극대화시킬수 있다는 부분을 확신시켰습니다</br>
+   지금은 어찌보면 개발자의 시대라고 봐도 과언이 아닐정도로 개발수요가 많이 늘어나는데, <strong>그냥 누구나 대체할수있는 개발자가 아닌
+   대체될수없는 개발자가 되기위해 끊임없이 공부하고 노력하겠습니다. "</strong> 
+
+about_services: # 형식에 맞추어 항목 추가
+- icon: icon-data
+  name: Server
+- icon: icon-monitor
+  name: Web
+- icon: icon-phone3
+  name: App
+- icon: icon-code
+  name: Python
+
+
+
+# Tech  skill
+tech_meta: TECH SKILLS
+tech_header: 저는 현재 이것을 할 수 있습니다.
+tech_content: #
+tech_list: # 형식에 맞추어 항목 추가
+- name: Python
+  color: color-1
+  animation: fadeInLeft
+  percent: 60
+  mark: 60
+  content: 파이썬 기초, 데이터 분석과 시각화를 공부하고 파이썬 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 파이썬으로 공부하였습니다.
+- name: Github
+  color: color-2
+  animation: fadeInRight
+  percent: 30
+  mark: 30
+  content: github서버를 활용하여 블로그 및 포트폴리오 사이트를 관리합니다.
+- name: Deeplearning
+  color: color-3
+  animation: fadeInLeft
+  percent: 60
+  mark: 60
+  content: 딥러닝으로 동작원리,신경망의 이해,CNN 등 원리에 대해서 이해하고 학습하였습니다
+- name: Database
+  color: color-4
+  animation: fadeInRight
+  percent: 50
+  mark: 50
+  content: 대학에 진학할 때, 데이터베이스의 구조와 설계방법 및 관리에 대해서 학습하였습니다
+tech_desc: 이외 <strong>javascript, Node JS, 리엑트, Mysql, 쿠버네티스, python 및 아마존 AWS, docker</strong>등을 계속해서 공부할 생각입니다. 
+
+
+# Project
+project_meta: My Work
+project_header: PROJECT
+project_introduce: <span>개인 프로젝트</span><span>팀 프로젝트</span><span>Business</span>
+project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다:)    # 더보기 내용
+project_load_more_url: #
+
+project_my_name: 개인프로젝트
+
+project_my: # 형식에 맞추어 항목 추가
+- background_url: images/personal_project1.PNG
+  animation: fadeInLeft
+  name: DEV GITHUB BLOG
+  description: 
+  detail_url: #
+  readmore_url: #
+
+- background_url: images/blog-1.PNG
+  animation: fadeInLeft
+  name: 
+  description: 
+  detail_url: #
+  readmore_url: #
+
+project_team_name: 팀프로젝트
+project_team: # 형식에 맞추어 항목 추가
+- background_url: images/team_project3.PNG
+  animation: fadeInRight
+  name: Anti-Drone_Robot(2020.05)
+  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
+  detail_url: #
+  readmore_url: #
+
+- background_url: images/team_project3.PNG
+  animation: fadeInRight
+  name: (2020.05)
+  description: 
+  detail_url: #
+  readmore_url: #
+
+project_business_name: Business
+project_business: # 형식에 맞추어 항목 추가
+- background_url: images/my_business.PNG
+  animation: fadeInTop
+  name: 인프런강의(2022)
+  description: >-
+    깃허브 블로그 강의를 통해 깃허브의 중요성을 알게되었습니다. 개발자라면 필수인 깃허브를 통해 그동안 공부한것들을 담아놓고
+    자신의 역량을 키울수 있다는 점에서 깃허브 주소 생성하는 강의를 공부하게 되었습니다 
+  detail_url: #
+  readmore_url: #
+
+
+# Experience
+exp_meta: What have I achieved?
+exp_header: 저는 이런 "경험"들을 해봤습니다.
+exp_content: 현재 개발로서는 큰 도움은 되지 않을 수 있지만, 회사에서 필요로 한다면 이런 역량도 가지고 있습니다.
+exp_services: # 형식에 맞추어 항목 추가
+- name: 소통력
+  color: color-1
+  icon: icon-bulb
+  content: 개발은 협업으로 이루어지기에 소통 또한 중요하다 생각합니다. 활발한 성격을 소통에 능합니다 
+- name: 기술습득
+  color: color-2
+  icon: icon-home
+  content: 다방면으로 호기심이 많아 탐구하는 습관으로 새로운 것을 만났을 때 빠르게 습득합니다.
+- name: 자기계발
+  color: color-3
+  icon: icon-phone3
+  content: 평소 독서와 자기계발을 통해 부족한 점이 무엇인지 포커스를 맞추며 공부하고 있습니다
+
+
+
+# Education
+edu_meta: Education
+edu_header: Education
+edu_list:
+- title: Chungwoon UNIVERSITY
+  subtitle: 청운대학교 컴퓨터공학과 졸업
+  date: 2014.03 - 2022.02
+  content: 전반적인 컴퓨터공학의 이해를 배웠고, 특히 DB를 설계하는 부분에 관심이 많았습니다 
+
+
+
+# Blog
+blog_meta: self-improvement
+blog_header: Github and Blog
+blog_load_more:     # 더보기 내용
+blog_load_more_url: #
+blog_list:
+- title: 깃허브 블로그
+  subtitle: 개발 블로그 운영
+  date: 2021.01
+  content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 블로그를 운영해오고 있습니다.
+  thumbnail_url: images/blog-1.PNG
+  link: #
+- title: 티스토리 블로그
+  subtitle: 이전 블로그
+  date: 2020.10
+  content: 2020년부터 꾸준히 기록하였던 티스토리 첫 블로그 입니다.
+  thumbnail_url: images/blog3432.PNG
+  link: https://middlemoon.tistory.com
+
+# Contact
+contact_meta: Get in Touch
+contact_header: Contact
+contact_list:
+- title: yjs7298@naver.com
+  icon: icon-globe-outline
+- title: 인천광역시 미추홀구
+  icon: icon-map
+- title: +82 10 xxxx xxxx
+  icon: icon-phone
+- title: 내 Github
+  icon: icon-layers2
+  url: https://github.com/goldcollar95
+
+
+optional_front_matter:
+  remove_originals:    true
